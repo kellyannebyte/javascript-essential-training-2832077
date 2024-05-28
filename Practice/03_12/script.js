@@ -6,3 +6,6 @@
  * - Create several objects using the class.
  * - Test the objecs by calling their properties and using their methods in the console.
  */
+import Toybox from "./Toybox.js";
+
+const newToybox = new Toybox("Large Box", "grey", false);
